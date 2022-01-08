@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xa3b7cee4e082183e69a03fc03476f28b12c545a7",
+  "SCAN_LINK": "https://polygonscan.com/token/0x49d430D4612A259883f5Bf0085Bf04c7235306b8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "PRINCESSES NFT",
+  "SYMBOL": "PRINCESS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chill-princess",
+  "SHOW_BACKGROUND": true,
+  "CHILL_FROG_CONTRACT_ADDRESS": "0xa3b7cee4e082183e69a03fc03476f28b12c545a7"
+}
